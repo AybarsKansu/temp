@@ -1,0 +1,25 @@
+scenario,measurement_index,measurement,n_aligned_samples,aligned_until_h,max_abs_error,mean_abs_error,rmse,relative_rmse_percent
+open_loop_base,7,XMEAS(7) Reactor pressure,70,3.47,197.64668,6.6848648,27.270161,1.0073098
+open_loop_base,9,XMEAS(9) Reactor temperature,70,3.47,19.50113,0.64499434,2.7091129,2.2563949
+open_loop_base,14,XMEAS(14) Separator underflow,70,3.47,0.31678685,0.11536294,0.1422533,0.56590411
+open_loop_base,17,XMEAS(17) Product underflow,70,3.47,0.39968114,0.12212855,0.15038562,0.65574387
+open_loop_base,40,XMEAS(40) Product G,70,3.47,1.1003718,0.45418744,0.55796578,1.0412549
+open_loop_base,41,XMEAS(41) Product H,70,3.47,1.3933998,0.46857171,0.62786406,1.4359357
+open_loop_idv,7,XMEAS(7) Reactor pressure,20,0.95,1.4314489,0.41929055,0.57114799,0.020900082
+open_loop_idv,9,XMEAS(9) Reactor temperature,20,0.95,0.1841627,0.024631413,0.045851598,0.038787882
+open_loop_idv,14,XMEAS(14) Separator underflow,20,0.95,0.31717438,0.13558191,0.16076314,0.6417307
+open_loop_idv,17,XMEAS(17) Product underflow,20,0.95,0.42516175,0.17599891,0.2163369,0.94126806
+open_loop_idv,40,XMEAS(40) Product G,20,0.95,1.0353486,0.39672063,0.5598354,1.0443708
+open_loop_idv,41,XMEAS(41) Product H,20,0.95,0.90439587,0.25811135,0.36771598,0.83857102
+closed_loop_base,7,XMEAS(7) Reactor pressure,960,48,30.843057,5.042693,7.0679462,0.26115631
+closed_loop_base,9,XMEAS(9) Reactor temperature,960,48,0.10250236,0.020337483,0.026006037,0.021599636
+closed_loop_base,14,XMEAS(14) Separator underflow,960,48,2.8531013,0.67983314,0.84991888,3.3721157
+closed_loop_base,17,XMEAS(17) Product underflow,960,48,1.7195982,0.41034906,0.5149805,2.2449642
+closed_loop_base,40,XMEAS(40) Product G,960,48,2.4889154,0.66848141,0.82765836,1.5417845
+closed_loop_base,41,XMEAS(41) Product H,960,48,2.6616527,0.63748779,0.78694583,1.7961121
+closed_loop_idv,7,XMEAS(7) Reactor pressure,960,48,119.73911,16.653153,30.18589,1.1144179
+closed_loop_idv,9,XMEAS(9) Reactor temperature,960,48,0.10250236,0.021460707,0.027509388,0.022848263
+closed_loop_idv,14,XMEAS(14) Separator underflow,960,48,3.3500692,0.76481816,0.95739784,3.8015516
+closed_loop_idv,17,XMEAS(17) Product underflow,960,48,1.9616582,0.44123076,0.55207884,2.4066466
+closed_loop_idv,40,XMEAS(40) Product G,960,48,2.48968,0.74175322,0.92511938,1.7211905
+closed_loop_idv,41,XMEAS(41) Product H,960,48,3.3466434,0.75901431,0.98434896,2.2478733

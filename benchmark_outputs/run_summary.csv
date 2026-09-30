@@ -1,0 +1,9 @@
+scenario,implementation,status,final_time_h,shutdown_time_h,wall_time_s,ms_per_process_hour,samples,error
+open_loop_base,fortran_tep:python,shutdown,3.55,3.5855556,4.3356726,1221.3162,72,
+open_loop_base,modern_tep:RK4,shutdown,3.47,3.47,0.0853964,24.609914,71,
+open_loop_idv,fortran_tep:python,shutdown,0.95,0.97861111,1.1628987,1224.1039,20,
+open_loop_idv,modern_tep:RK4,shutdown,0.98,0.98,0.0244733,24.972755,21,
+closed_loop_base,fortran_tep:python,completed,48,,70.971111,1478.5648,961,
+closed_loop_base,modern_tep:RK4+Ricker,completed,48,,1.3904503,28.967715,961,
+closed_loop_idv,fortran_tep:python,completed,48,,69.185313,1441.3607,961,
+closed_loop_idv,modern_tep:RK4+Ricker,completed,48,,1.3527945,28.183219,961,

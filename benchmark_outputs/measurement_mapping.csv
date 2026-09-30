@@ -1,0 +1,42 @@
+index,fortran_symbol,fortran_name,fortran_unit,modern_name,modern_unit,modern_update_mode,modern_sample_period_h
+1,XMEAS(1),A Feed (stream 1),kscmh,feed_A_flow,kscmh,continuous,
+2,XMEAS(2),D Feed (stream 2),kg/hr,feed_D_flow,kg/h,continuous,
+3,XMEAS(3),E Feed (stream 3),kg/hr,feed_E_flow,kg/h,continuous,
+4,XMEAS(4),A and C Feed (stream 4),kscmh,feed_AC_flow,kscmh,continuous,
+5,XMEAS(5),Recycle Flow (stream 8),kscmh,recycle_flow,kscmh,continuous,
+6,XMEAS(6),Reactor Feed Rate (stream 6),kscmh,reactor_feed_flow,kscmh,continuous,
+7,XMEAS(7),Reactor Pressure,kPa,reactor_pressure,kPa gauge,continuous,
+8,XMEAS(8),Reactor Level,%,reactor_level,%,continuous,
+9,XMEAS(9),Reactor Temperature,deg C,reactor_temperature,degC,continuous,
+10,XMEAS(10),Purge Rate (stream 9),kscmh,purge_flow,kscmh,continuous,
+11,XMEAS(11),Product Sep Temp,deg C,separator_temperature,degC,continuous,
+12,XMEAS(12),Product Sep Level,%,separator_level,%,continuous,
+13,XMEAS(13),Prod Sep Pressure,kPa,separator_pressure,kPa gauge,continuous,
+14,XMEAS(14),Prod Sep Underflow (stream 10),m3/hr,separator_underflow,m3/h,continuous,
+15,XMEAS(15),Stripper Level,%,stripper_level,%,continuous,
+16,XMEAS(16),Stripper Pressure,kPa,stripper_pressure,kPa gauge,continuous,
+17,XMEAS(17),Stripper Underflow (stream 11),m3/hr,stripper_underflow,m3/h,continuous,
+18,XMEAS(18),Stripper Temperature,deg C,stripper_temperature,degC,continuous,
+19,XMEAS(19),Stripper Steam Flow,kg/hr,stripper_steam_flow,kg/h,continuous,
+20,XMEAS(20),Compressor Work,kW,compressor_work,kW,continuous,
+21,XMEAS(21),Reactor Cooling Water Outlet Temp,deg C,reactor_cooling_water_outlet_temperature_meas,degC,continuous,
+22,XMEAS(22),Separator Cooling Water Outlet Temp,deg C,condenser_cooling_water_outlet_temperature,degC,continuous,
+23,XMEAS(23),Reactor Feed Component A,mol%,reactor_feed_A_concentration,mol %,sample_and_hold,0.1
+24,XMEAS(24),Reactor Feed Component B,mol%,reactor_feed_B_concentration,mol %,sample_and_hold,0.1
+25,XMEAS(25),Reactor Feed Component C,mol%,reactor_feed_C_concentration,mol %,sample_and_hold,0.1
+26,XMEAS(26),Reactor Feed Component D,mol%,reactor_feed_D_concentration,mol %,sample_and_hold,0.1
+27,XMEAS(27),Reactor Feed Component E,mol%,reactor_feed_E_concentration,mol %,sample_and_hold,0.1
+28,XMEAS(28),Reactor Feed Component F,mol%,reactor_feed_F_concentration,mol %,sample_and_hold,0.1
+29,XMEAS(29),Purge Gas Component A,mol%,purge_A_concentration,mol %,sample_and_hold,0.1
+30,XMEAS(30),Purge Gas Component B,mol%,purge_B_concentration,mol %,sample_and_hold,0.1
+31,XMEAS(31),Purge Gas Component C,mol%,purge_C_concentration,mol %,sample_and_hold,0.1
+32,XMEAS(32),Purge Gas Component D,mol%,purge_D_concentration,mol %,sample_and_hold,0.1
+33,XMEAS(33),Purge Gas Component E,mol%,purge_E_concentration,mol %,sample_and_hold,0.1
+34,XMEAS(34),Purge Gas Component F,mol%,purge_F_concentration,mol %,sample_and_hold,0.1
+35,XMEAS(35),Purge Gas Component G,mol%,purge_G_concentration,mol %,sample_and_hold,0.1
+36,XMEAS(36),Purge Gas Component H,mol%,purge_H_concentration,mol %,sample_and_hold,0.1
+37,XMEAS(37),Product Component D,mol%,stripper_underflow_D_concentration,mol %,sample_and_hold,0.25
+38,XMEAS(38),Product Component E,mol%,stripper_underflow_E_concentration,mol %,sample_and_hold,0.25
+39,XMEAS(39),Product Component F,mol%,stripper_underflow_F_concentration,mol %,sample_and_hold,0.25
+40,XMEAS(40),Product Component G,mol%,stripper_underflow_G_concentration,mol %,sample_and_hold,0.25
+41,XMEAS(41),Product Component H,mol%,stripper_underflow_H_concentration,mol %,sample_and_hold,0.25

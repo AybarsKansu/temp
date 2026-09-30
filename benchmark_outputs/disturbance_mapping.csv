@@ -1,0 +1,29 @@
+index,fortran_symbol,fortran_name,modern_name,modern_description,modern_model
+1,IDV(1),"A/C Feed Ratio, B Composition Constant (Step)",idv_01,"A/C ratio of stream 4, B composition constant",step
+2,IDV(2),"B Composition, A/C Ratio Constant (Step)",idv_02,"B composition of stream 4, A/C ratio constant",step
+3,IDV(3),D Feed Temperature (Step),idv_03,D feed temperature,step
+4,IDV(4),Reactor Cooling Water Inlet Temperature (Step),idv_04,Reactor cooling water inlet temperature,step
+5,IDV(5),Condenser Cooling Water Inlet Temperature (Step),idv_05,Separator cooling water inlet temperature,step
+6,IDV(6),A Feed Loss (Step),idv_06,A feed loss,step
+7,IDV(7),C Header Pressure Loss (Step),idv_07,C header pressure loss,step
+8,IDV(8),"A, B, C Feed Composition (Random Variation)",idv_08,Random A/B/C composition of stream 4,random
+9,IDV(9),D Feed Temperature (Random Variation),idv_09,Random D feed temperature,random
+10,IDV(10),C Feed Temperature (Random Variation),idv_10,Random C feed temperature,random
+11,IDV(11),Reactor Cooling Water Inlet Temp (Random Variation),idv_11,Random reactor cooling water inlet temperature,random
+12,IDV(12),Condenser Cooling Water Inlet Temp (Random Var),idv_12,Random separator cooling water inlet temperature,random
+13,IDV(13),Reaction Kinetics (Slow Drift),idv_13,Reaction kinetics drift,drift
+14,IDV(14),Reactor Cooling Water Valve (Sticking),idv_14,Reactor cooling water valve stiction,stiction
+15,IDV(15),Condenser Cooling Water Valve (Sticking),idv_15,Separator cooling water valve stiction,stiction
+16,IDV(16),Unknown,idv_16,Random stripper heat transfer deviation,random
+17,IDV(17),Unknown,idv_17,Random reactor heat transfer deviation,random
+18,IDV(18),Unknown,idv_18,Random condenser heat transfer deviation,random
+19,IDV(19),Unknown,idv_19,Valve stiction group,stiction
+20,IDV(20),Unknown,idv_20,Unknown random disturbance,random
+21,,,idv_21,Random A feed temperature,random
+22,,,idv_22,Random E feed temperature,random
+23,,,idv_23,Random A feed pressure/flow,random
+24,,,idv_24,Random D feed pressure/flow,random
+25,,,idv_25,Random E feed pressure/flow,random
+26,,,idv_26,Random A and C feed pressure/flow,random
+27,,,idv_27,Random reactor cooling water pressure/flow,random
+28,,,idv_28,Random condenser cooling water pressure/flow,random

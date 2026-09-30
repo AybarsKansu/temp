@@ -1,0 +1,90 @@
+[
+  {
+    "scenario": "open_loop_base",
+    "implementation": "fortran_tep:python",
+    "status": "shutdown",
+    "final_time_h": 3.550000000000461,
+    "shutdown_time_h": 3.585555555556022,
+    "wall_time_s": 4.335672599999953,
+    "ms_per_process_hour": 1221.3162253519408,
+    "samples": 72,
+    "error": null
+  },
+  {
+    "scenario": "open_loop_base",
+    "implementation": "modern_tep:RK4",
+    "status": "shutdown",
+    "final_time_h": 3.46999999999997,
+    "shutdown_time_h": 3.46999999999997,
+    "wall_time_s": 0.08539640000003601,
+    "ms_per_process_hour": 24.609913544679177,
+    "samples": 71,
+    "error": null
+  },
+  {
+    "scenario": "open_loop_idv",
+    "implementation": "fortran_tep:python",
+    "status": "shutdown",
+    "final_time_h": 0.9500000000000545,
+    "shutdown_time_h": 0.97861111111117,
+    "wall_time_s": 1.162898700000028,
+    "ms_per_process_hour": 1224.1038947368013,
+    "samples": 20,
+    "error": null
+  },
+  {
+    "scenario": "open_loop_idv",
+    "implementation": "modern_tep:RK4",
+    "status": "shutdown",
+    "final_time_h": 0.9800000000000006,
+    "shutdown_time_h": 0.9800000000000006,
+    "wall_time_s": 0.02447329999995418,
+    "ms_per_process_hour": 24.972755101994043,
+    "samples": 21,
+    "error": null
+  },
+  {
+    "scenario": "closed_loop_base",
+    "implementation": "fortran_tep:python",
+    "status": "completed",
+    "final_time_h": 47.999999999879506,
+    "shutdown_time_h": null,
+    "wall_time_s": 70.97111069999994,
+    "ms_per_process_hour": 1478.5648062537105,
+    "samples": 961,
+    "error": null
+  },
+  {
+    "scenario": "closed_loop_base",
+    "implementation": "modern_tep:RK4+Ricker",
+    "status": "completed",
+    "final_time_h": 47.99999999999902,
+    "shutdown_time_h": null,
+    "wall_time_s": 1.3904503000001114,
+    "ms_per_process_hour": 28.967714583336246,
+    "samples": 961,
+    "error": null
+  },
+  {
+    "scenario": "closed_loop_idv",
+    "implementation": "fortran_tep:python",
+    "status": "completed",
+    "final_time_h": 47.999999999879506,
+    "shutdown_time_h": null,
+    "wall_time_s": 69.18531260000009,
+    "ms_per_process_hour": 1441.3606791702869,
+    "samples": 961,
+    "error": null
+  },
+  {
+    "scenario": "closed_loop_idv",
+    "implementation": "modern_tep:RK4+Ricker",
+    "status": "completed",
+    "final_time_h": 47.99999999999902,
+    "shutdown_time_h": null,
+    "wall_time_s": 1.3527945000000727,
+    "ms_per_process_hour": 28.18321875000209,
+    "samples": 961,
+    "error": null
+  }
+]

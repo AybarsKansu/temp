@@ -1,0 +1,13 @@
+index,fortran_symbol,fortran_name,modern_name,modern_unit,lower,upper,initial_mode1
+1,XMV(1),D Feed Flow (stream 2),d_feed_valve,%,0.0,100.0,63.05263039
+2,XMV(2),E Feed Flow (stream 3),e_feed_valve,%,0.0,100.0,53.97970677
+3,XMV(3),A Feed Flow (stream 1),a_feed_valve,%,0.0,100.0,24.64355755
+4,XMV(4),A and C Feed Flow (stream 4),ac_feed_valve,%,0.0,100.0,61.30192144
+5,XMV(5),Compressor Recycle Valve,compressor_recycle_valve,%,0.0,100.0,22.21
+6,XMV(6),Purge Valve (stream 9),purge_valve,%,0.0,100.0,40.06374673
+7,XMV(7),Separator Pot Liquid Flow,separator_underflow_valve,%,0.0,100.0,38.1003437
+8,XMV(8),Stripper Liquid Product Flow,stripper_underflow_valve,%,0.0,100.0,46.53415582
+9,XMV(9),Stripper Steam Valve,stripper_steam_valve,%,0.0,100.0,47.44573456
+10,XMV(10),Reactor Cooling Water Flow,reactor_cooling_water_valve,%,0.0,100.0,41.10581288
+11,XMV(11),Condenser Cooling Water Flow,separator_cooling_water_valve,%,0.0,100.0,18.11349055
+12,XMV(12),Agitator Speed,reactor_agitator_speed,%,0.0,100.0,50

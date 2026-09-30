@@ -1,0 +1,51 @@
+index,fortran_symbol,modern_name,unit,description,initial_mode1
+1,YY(1),reactor_vapor_A_holdup,lb-mol,Holdup of component A in vapor phase of reactor,10.40491389
+2,YY(2),reactor_vapor_B_holdup,lb-mol,Holdup of component B in vapor phase of reactor,4.363996017
+3,YY(3),reactor_vapor_C_holdup,lb-mol,Holdup of component C in vapor phase of reactor,7.570059737
+4,YY(4),reactor_liquid_D_holdup,lb-mol,Holdup of component D in liquid phase of reactor,0.4230042431
+5,YY(5),reactor_liquid_E_holdup,lb-mol,Holdup of component E in liquid phase of reactor,24.15513437
+6,YY(6),reactor_liquid_F_holdup,lb-mol,Holdup of component F in liquid phase of reactor,2.942597645
+7,YY(7),reactor_liquid_G_holdup,lb-mol,Holdup of component G in liquid phase of reactor,154.3770655
+8,YY(8),reactor_liquid_H_holdup,lb-mol,Holdup of component H in liquid phase of reactor,159.186596
+9,YY(9),reactor_internal_energy,MMBTU,Internal energy of reactor,2.808522723
+10,YY(10),separator_vapor_A_holdup,lb-mol,Holdup of component A in vapor phase of separator,63.75581199
+11,YY(11),separator_vapor_B_holdup,lb-mol,Holdup of component B in vapor phase of separator,26.74026066
+12,YY(12),separator_vapor_C_holdup,lb-mol,Holdup of component C in vapor phase of separator,46.38532432
+13,YY(13),separator_liquid_D_holdup,lb-mol,Holdup of component D in liquid phase of separator,0.2464521543
+14,YY(14),separator_liquid_E_holdup,lb-mol,Holdup of component E in liquid phase of separator,15.20484404
+15,YY(15),separator_liquid_F_holdup,lb-mol,Holdup of component F in liquid phase of separator,1.852266172
+16,YY(16),separator_liquid_G_holdup,lb-mol,Holdup of component G in liquid phase of separator,52.44639459
+17,YY(17),separator_liquid_H_holdup,lb-mol,Holdup of component H in liquid phase of separator,41.20394008
+18,YY(18),separator_internal_energy,MMBTU,Internal energy of separator,0.569931776
+19,YY(19),stripper_liquid_A_holdup,lb-mol,Holdup of component A in stripper sump,0.4306056376
+20,YY(20),stripper_liquid_B_holdup,lb-mol,Holdup of component B in stripper sump,0.007990620078
+21,YY(21),stripper_liquid_C_holdup,lb-mol,Holdup of component C in stripper sump,0.9056036089
+22,YY(22),stripper_liquid_D_holdup,lb-mol,Holdup of component D in stripper sump,0.01605425822
+23,YY(23),stripper_liquid_E_holdup,lb-mol,Holdup of component E in stripper sump,0.7509759687
+24,YY(24),stripper_liquid_F_holdup,lb-mol,Holdup of component F in stripper sump,0.08858285595
+25,YY(25),stripper_liquid_G_holdup,lb-mol,Holdup of component G in stripper sump,48.27726193
+26,YY(26),stripper_liquid_H_holdup,lb-mol,Holdup of component H in stripper sump,39.38459028
+27,YY(27),stripper_internal_energy,MMBTU,Internal energy of stripper sump,0.3755297257
+28,YY(28),header_vapor_A_holdup,lb-mol,Holdup of component A in stream 6 header,107.7562698
+29,YY(29),header_vapor_B_holdup,lb-mol,Holdup of component B in stream 6 header,29.77250546
+30,YY(30),header_vapor_C_holdup,lb-mol,Holdup of component C in stream 6 header,88.32481135
+31,YY(31),header_vapor_D_holdup,lb-mol,Holdup of component D in stream 6 header,23.03929507
+32,YY(32),header_vapor_E_holdup,lb-mol,Holdup of component E in stream 6 header,62.85848794
+33,YY(33),header_vapor_F_holdup,lb-mol,Holdup of component F in stream 6 header,5.546318688
+34,YY(34),header_vapor_G_holdup,lb-mol,Holdup of component G in stream 6 header,11.92244772
+35,YY(35),header_vapor_H_holdup,lb-mol,Holdup of component H in stream 6 header,5.555448243
+36,YY(36),header_internal_energy,MMBTU,Internal energy of stream 6 header,0.9218489762
+37,YY(37),reactor_cooling_water_outlet_temperature,degC,Temperature cooling water outlet of reactor,94.59927549
+38,YY(38),separator_cooling_water_outlet_temperature,degC,Temperature cooling water outlet of separator,77.29698353
+39,YY(39),d_feed_valve,%,Valve position feed component D (stream 2),63.05263039
+40,YY(40),e_feed_valve,%,Valve position feed component E (stream 3),53.97970677
+41,YY(41),a_feed_valve,%,Valve position feed component A (stream 1),24.64355755
+42,YY(42),ac_feed_valve,%,Valve position feed components A and C (stream 4),61.30192144
+43,YY(43),compressor_recycle_valve,%,Valve position compressor recycle,22.21
+44,YY(44),purge_valve,%,Valve position purge (stream 9),40.06374673
+45,YY(45),separator_underflow_valve,%,Valve position underflow separator (stream 10),38.1003437
+46,YY(46),stripper_underflow_valve,%,Valve position underflow stripper (stream 11),46.53415582
+47,YY(47),stripper_steam_valve,%,Valve position stripper steam,47.44573456
+48,YY(48),reactor_cooling_water_valve,%,Valve position cooling water outlet of reactor,41.10581288
+49,YY(49),separator_cooling_water_valve,%,Valve position cooling water outlet of separator,18.11349055
+50,YY(50),reactor_agitator_speed,%,Rotation of agitator of reactor,50
